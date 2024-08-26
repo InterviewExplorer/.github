@@ -60,6 +60,12 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
     </td>
   </tr>
+    <tr>
+    <td style="text-align:center;"><strong>Framework</strong></td>
+    <td style="text-align:center;">
+      <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
   <tr>
     <td style="text-align:center;"><strong>Database</strong></td>
     <td style="text-align:center;">
