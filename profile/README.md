@@ -73,17 +73,14 @@
 
 ## 📋플로우차트 URL
 
-<!--
+
 ## ⚙️개발 환경
-| **항목**          | **내용**                   |
-|:-----------------:|:---------------------------:|
-| 운영체제          | Windows 10 64bit            |
-| 개발도구          | IntelliJ IDEA                |
-| 빌드툴            | Gradle                       |
-| 프로그래밍 언어    | Java, JavaScript, HTML, CSS |
-| 라이브러리        | JQuery                       |
-| 프레임워크        | SpringBoot, MyBatis, BootStrap |
-| 데이터베이스      | MySQL                        |
-| 모델링툴          | DA#Modeler5                  |
-| 협업툴            | GitHub, Notion, Discord      |
--->
+| **항목**                  | **내용**                                                                      |
+|:------------------------:|:-----------------------------------------------------------------------------:|
+| 개발도구                  | VS Code (Visual Studio Code)                                                  |
+| 프로그래밍 언어            | Python, JavaScript                                                           |
+| 서버 & 빌드               | Uvicorn, Node.js (NPM)                                                        |
+| 프레임워크 & 라이브러리    | FastAPI, React.js                                                             |
+| 환경 & 패키지 관리도구     | Miniforge, Conda                                                              |
+| 하드웨어 가속기            | DA#GPU (NVIDIA CUDA)                                                          |
+| 머신러닝 모델              |   |
