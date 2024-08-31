@@ -88,5 +88,5 @@
 | 서버 & 빌드               | Uvicorn, Node.js (NPM)                                                        |
 | 프레임워크 & 라이브러리    | FastAPI, React.js                                                             |
 | 환경 & 패키지 관리도구     | Miniforge, Conda                                                              |
-| 하드웨어 가속기            | DA#GPU (NVIDIA CUDA)                                                          |
+| 하드웨어 가속기            | GPU (NVIDIA CUDA)                                                             |
 | 머신러닝 모델              |   |
