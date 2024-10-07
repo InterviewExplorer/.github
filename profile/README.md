@@ -1,4 +1,4 @@
-# 🕴️InterviewExplorer
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/a1cf081e-9bf8-4fcc-9616-e70e4063df47"># 🕴️InterviewExplorer
 심화_생성형 AI활용 인재양성과정 (조별멘토) 2회차 파이널 프로젝트 입니다.
 
 ## 👨‍🏫프로젝트 소개
@@ -22,14 +22,6 @@
 -->
 
 ## 🧑‍🤝‍🧑팀원 소개 및 담당 기능
-<!--
-| 역할   | 이름                                          | 담당 기능         |
-|:-------:|:-------------------------------------------:|:-----------------:|
-| **팀장** | [이다정](https://github.com/LXXDJ)          ||
-| **팀원** | [구예성](https://github.com/KUYESUNG)       ||
-|          | [김아연](https://github.com/duri22)         ||
-|          | [성우현](https://github.com/sunguh0904)     ||
--->
 
 <div>
   <table border="1" style="width: 100%; border-collapse: collapse;">
@@ -79,6 +71,7 @@
    ## 📚Stacks
 </div>
 
+<!--
 <table>
   <tr>
     <th style="text-align:center;">Category</th>
@@ -117,20 +110,90 @@
     </td>
   </tr>
 </table>
+-->
 
-## 🎨 피그마 URL
-
-
-## 📋플로우차트 URL
-
+<div>
+  <table border="1" style="width: 100%; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="text-align: center;">Category</th>
+        <th style="text-align: center;">Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;"><strong>FrontEnd</strong></td>
+        <td style="text-align: center;">
+          HTML5, CSS3, JavaScript
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>FrontEnd Library</strong></td>
+        <td style="text-align: center;">
+          React.js
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>BackEnd Framework</strong></td>
+        <td style="text-align: center;">
+          FastAPI
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>Server</strong></td>
+        <td style="text-align: center;">
+          Uvicorn
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>Build Tools</strong></td>
+        <td style="text-align: center;">
+          Node.js (NPM)
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>Database</strong></td>
+        <td style="text-align: center;">
+          Elasticsearch
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>Machine Learning Models</strong></td>
+        <td style="text-align: center;">
+          Whisper (STT), LLM (OpenAI), GPT-4o-mini
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## ⚙️개발 환경
-| **항목**                  | **내용**                                                                      |
-|:------------------------:|:-----------------------------------------------------------------------------:|
-| 개발도구                  | VS Code (Visual Studio Code)                                                  |
-| 프로그래밍 언어            | Python, JavaScript                                                           |
-| 서버 & 빌드               | Uvicorn, Node.js (NPM)                                                        |
-| 프레임워크 & 라이브러리    | FastAPI, React.js                                                             |
-| 환경 & 패키지 관리도구     | Miniforge, Conda                                                              |
-| 하드웨어 가속기            | GPU (NVIDIA CUDA)                                                             |
-| 머신러닝 모델              |   |
+
+<div>
+  <table border="1" style="width: 100%; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="text-align: center;">항목</th>
+        <th style="text-align: center;">내용</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;"><strong>운영체제 (OS)</strong></td>
+        <td style="text-align: center;">Windows, macOS</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>개발도구</strong></td>
+        <td style="text-align: center;">VS Code (Visual Studio Code), Git, GitHub, Notion</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>환경 & 패키지 관리도구</strong></td>
+        <td style="text-align: center;">Miniforge, Conda</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>하드웨어 가속기</strong></td>
+        <td style="text-align: center;">GPU (NVIDIA CUDA)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
