@@ -22,12 +22,56 @@
 -->
 
 ## 🧑‍🤝‍🧑팀원 소개 및 담당 기능
+<!--
 | 역할   | 이름                                          | 담당 기능         |
 |:-------:|:-------------------------------------------:|:-----------------:|
 | **팀장** | [이다정](https://github.com/LXXDJ)          ||
 | **팀원** | [구예성](https://github.com/KUYESUNG)       ||
 |          | [김아연](https://github.com/duri22)         ||
 |          | [성우현](https://github.com/sunguh0904)     ||
+-->
+
+<div>
+  <table border="1" style="width: 100%; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="text-align: center;">역할</th>
+        <th style="text-align: center;">이름</th>
+        <th style="text-align: center;">담당 기능</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;">팀장</td>
+        <td style="text-align: center;"><a href="https://github.com/LXXDJ">이다정</a></td>
+        <td>
+          1. STT(Whisper-medium)로 영상에서 면접자의 답변을 텍스트로 추출<br>
+          2. RAG(Elasticsearch)로 최신 기술 및 이슈에 대한 질문 생성 및 답변 평가<br>
+          3. Prompt Engineering & LLM(GPT-4o mini)으로 맞춤형 답변 평가 및 이력서별 요약 정보 추출
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">팀원</td>
+        <td style="text-align: center;"><a href="https://github.com/KUYESUNG">구예성</a></td>
+        <td>(기능 내용 추가)</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">팀원</td>
+        <td style="text-align: center;"><a href="https://github.com/duri22">김아연</a></td>
+        <td>(기능 내용 추가)</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">팀원</td>
+        <td style="text-align: center;"><a href="https://github.com/sunguh0904">성우현</a></td>
+        <td>
+          1. MediaPipe Pose를 사용하여 영상에서 사용자의 포즈를 추적하고 피드백 생성<br>
+          2. LLM(OpenAI)과 Elasticsearch를 사용해 RAG 기법과 하이브리드 서치 방식으로 최신 뉴스의 인성 면접 질문 생성 및 평가<br>
+          3. 기본적으로 LLM(OpenAI)을 활용해 기본 인성 질문 생성
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 <div>
