@@ -75,12 +75,12 @@
         <td style="text-align: center;">팀원</td>
         <td style="text-align: center;"><a href="https://github.com/KUYESUNG">구예성</a></td>
         <td>
-          1. LLM(GPT-4o mini)을 이용한 기본 기술 질문 및 이력서 기반 질문 생성
-          2. RAG(Retrieval-Augmented Generation)을 이용해 생성된 최신 뉴스 기반 질문 및 기본 질문에 대한 꼬리 질문 생성
-          3. OpenCV + MediaPipe를 이용한 면접 시작전 캠 가이드 제작
-          4. 마이크 테스트 기능 제작
-          5. Selenium + Scheduler를 이용한 동적 사이트 크롤링 자동화 데이터 파이프라인 구축
-          6. 면접관(ver) 이력서 전처리후 저장 및 이력서별 요약 정보 추출
+          1. LLM(GPT-4o mini)을 이용한 기본 기술 질문 및 이력서 기반 질문 생성<br>
+          2. RAG(Retrieval-Augmented Generation)을 이용해 생성된 최신 뉴스 기반 질문 및 기본 질문에 대한 꼬리 질문 생성<br>
+          3. OpenCV + MediaPipe를 이용한 면접 시작전 캠 가이드 제작<br>
+          4. 마이크 테스트 기능 제작<br>
+          5. Selenium + Scheduler를 이용한 동적 사이트 크롤링 자동화 데이터 파이프라인 구축<br>
+          6. 면접관(ver) 이력서 전처리후 저장 및 이력서별 요약 정보 추출<br>
         </td>
       </tr>
       <tr>
