@@ -26,7 +26,7 @@
       <span style="font-weight: bold;">2024.08.26 ~ 30:</span> 역할 분담
     </li>
     <li style="margin-bottom: 10px;">
-      <span style="font-weight: bold;">2024.08.26 ~ :</span> 개발
+      <span style="font-weight: bold;">2024.08.26 ~ 10.04:</span> 개발
     </li>
     <li style="margin-bottom: 10px;">
       <span style="font-weight: bold;">2024.08.27:</span> 기획 발표
