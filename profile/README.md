@@ -12,16 +12,42 @@
 단순히 준비하는 것만으로는 부족하고, 실전 같은 연습이 필요하다고 느끼셨나요?</br>
 이제 AI가 함께하는 면접 준비의 새로운 시대가 열립니다!
 
-## 🕰️개발기간
-**2024.08.23 ~ 2024.10.14**
-<!--
-- 2024.03.14: 프로젝트 선정
-- 2024.03.15 ~ 24: 기획 및 설계 (시장조사, 분석 등)
-- 2024.04.04 ~ 08: DB 설계
-- 2024.04.09 ~ 29: 개발
-- 2024.04.30 ~ 05.01: PPT 제작 및 발표 준비
-- 2024.05.02: 발표
--->
+<div style="padding: 20px; font-family: Arial, sans-serif;">
+  <h2>🕰️ 개발기간</h2>
+  <p><strong>2024.08.23 ~ 2024.10.14</strong></p>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.08.21 ~ 23:</span> 아이디어 기획
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.08.23 ~ 29:</span> 자료 조사
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.08.26 ~ 30:</span> 역할 분담
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.08.26 ~ :</span> 개발
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.08.27:</span> 기획 발표
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.08.30 ~ 09.03:</span> 면접관 추가
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.09.06 ~ 10.04:</span> 고도화 작업
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.09.13:</span> 중간 발표
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.09.07 ~ 10.13:</span> 테스팅, 로깅, 디버깅
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="font-weight: bold;">2024.10.14:</span> 발표
+    </li>
+  </ul>
+</div>
 
 ## 🧑‍🤝‍🧑팀원 소개 및 담당 기능
 
