@@ -99,47 +99,6 @@
    ## 📚Stacks
 </div>
 
-<!--
-<table>
-  <tr>
-    <th style="text-align:center;">Category</th>
-    <th style="text-align:center;">Skills</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong >FrontEnd</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>BackEnd</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Libraries</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-    </td>
-  </tr>
-    <tr>
-    <td style="text-align:center;"><strong>Framework</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Database</strong></td>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-</table>
--->
-
 <div>
   <table border="1" style="width: 100%; border-collapse: collapse;">
     <thead>
