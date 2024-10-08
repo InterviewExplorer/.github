@@ -86,7 +86,10 @@
       <tr>
         <td style="text-align: center;">팀원</td>
         <td style="text-align: center;"><a href="https://github.com/duri22">김아연</a></td>
-        <td>(기능 내용 추가)</td>
+        <td>
+          1. D-ID API를 사용하여 AI 면접관 영상 생성<br>
+          2. 면접관 버전에서 Elasticsearch 를 사용해 하이브리드 서치로 이력서 검색, 정렬
+        </td>
       </tr>
       <tr>
         <td style="text-align: center;">팀원</td>
