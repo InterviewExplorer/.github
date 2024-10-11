@@ -136,7 +136,7 @@
       <tr>
         <td style="text-align: center;"><strong>Machine Learning Models</strong></td>
         <td style="text-align: center;">
-          Whisper (STT), LLM (OpenAI), GPT-4o-mini
+          NLP(LLM, RAG), AUDIO(STT), CV(Pose Estimation)
         </td>
       </tr>
     </tbody>
